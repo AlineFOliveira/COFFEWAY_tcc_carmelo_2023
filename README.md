@@ -22,4 +22,11 @@ Usuário: cliente@cliente.com
 
 Senha: 123
 
+#
 
+## Preview:
+
+![print1](/CoffeWayPrint1.png)
+![print2](/CoffeWayPrint2.png)
+![print3](/CoffeWayPrint3.png)
+![print4](/CoffeWayPrint4.png)
